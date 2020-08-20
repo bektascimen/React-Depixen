@@ -1,0 +1,21 @@
+.test input{
+    background-color: floralwhite;
+    border: 0;
+    width: 200px;
+    height: 50px;
+    padding: 0 20px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.test textarea {
+    background-color: floralwhite;
+    border: 0;
+    width: 200px;
+    height: 250px;
+    padding: 0 20px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+}

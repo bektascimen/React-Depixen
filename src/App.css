@@ -1,12 +1,12 @@
 body{
-background-color: midnightblue;
+background-color: mediumspringgreen;
 }
 
 .App {
     background-color: lightslategray;
     min-height: 700px;
     width: auto;
-    margin: 190px auto;
+    margin: 150px auto;
     display: flex;
 }
 
@@ -16,7 +16,7 @@ background-color: midnightblue;
     width: 400px;
 }
 
-#card input{
+.cti{
     background-color: dimgray;
     border: 0;
     width: 300px;
@@ -54,6 +54,8 @@ background-color: midnightblue;
 
 .cfa{
     height: 250px;
+    margin-left: 25px;
+    padding-top: 100px;
 }
 .cga{
     width: 400px;

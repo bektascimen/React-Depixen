@@ -15,7 +15,7 @@ function Field(props) {
                         </Card.Text>
                     </Card.Body>
                     <Card.Footer>
-                        <Card.Img variant="top" src={item.image} style={{height: "226px"}}/>
+                        <Card.Img variant="top"  src={item.imageURL} style={{height: "248px"}}/>
                     </Card.Footer>
                 </Card>
             </CardGroup>
